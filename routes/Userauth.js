@@ -1,0 +1,2 @@
+// this is generally route for the user_authentications this use the jwt and the bcrypt to authenticate the user
+//this routes helps the user to signup and signin and also to check if the user is authenticated or not
